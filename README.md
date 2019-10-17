@@ -14,7 +14,7 @@
 
 ### 	VirualDesktop works like OS X
 
-​	       It is a very convenient tool for you to arrange your windows in mutiple virutal desktop, which helps a lot for people who have many windows when working.
+​	        It is a very convenient tool for you to arrange your windows in mutiple virutal desktop, which helps a lot for people who have many windows when working.
 
 ​			Press Ctrl + [1,2,3,4] to switch among virtual desktop 1,2,3,4.
 
@@ -36,7 +36,7 @@
 
 ​			     https://github.com/cvidkal/EffcientWorkWindows/blob/master/VirualDesktopScript.ahk
 
-#### 		 4. How to use
+#### 		4. How to use
 
    1. Download AutoHotKey and VirtualDesktopAccessor dll
 
