@@ -50,3 +50,20 @@
 
 4. Open Script
 
+
+
+### VisualSubst - Mount Folders as Virtual Drives
+
+------
+
+SUBST is a command used for substituting paths on physical and logical drives as virtual drives.
+
+If you have to access a path frequently, you can use this command to map this path to a virtual drive such as 'Z:'.Then you are able to access this path very  conveniently.
+
+VisualSubst is a GUI program helping you to use SUBST command easily.
+
+Visual Subst allows you to create virtual drives for local folders and network shares. It solves 3 main issues with the built-in 'SUBST' and ‘NET USE’ commands: it creates drives for elevated applications without any UAC prompts, adds editable drive labels and restores drives after reboots. 
+
+
+
+![](https://github.com/cvidkal/EffcientWorkWindows/blob/master/img/vsubst.png)
